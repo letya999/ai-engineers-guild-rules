@@ -17,6 +17,8 @@ SYSTEM LOG: GUILD TERMINAL DISPLAY -- STATUS: OPERATIONAL
 Command: █
 ```
 
+💬 **Присоединяйтесь к нам в Telegram:** [t.me/ai_engineers_guild](https://t.me/ai_engineers_guild)
+
 # Правила и Дорожная карта AI Engineers Guild
 
 Добро пожаловать в основополагающий репозиторий **AI Engineers Guild**. Здесь собраны свод правил сообщества, наши манифесты и живой бэклог (roadmap) для нашего совместного пути в эпоху ИИ-разработки.
