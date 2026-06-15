@@ -36,6 +36,7 @@ We are a community of builders who believe that AI is not just a tool, but a par
 - `main_rules.md`: The "Constitution" of the Guild. Rules for interaction, behavior, and ethics (in Russian).
 - `advertising.md`: Guild rules for advertising, self-promotion, and job postings (in Russian).
 - `about.md`: The Manifesto and Vision of the Guild, detailing our philosophical and social foundations, ODS principles, and our Almaty offline core (in Russian).
+- `features.md`: Currently active features, streams, open-source campaigns, and bots of the Guild (in Russian).
 - `backlog.md`: Our community-driven roadmap. Ideas for events, bots, tools, marketplace artifacts, and platform features.
 - `CONTRIBUTING.md`: How you can propose new rules or features to the repository.
 
